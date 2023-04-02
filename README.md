@@ -33,4 +33,3 @@ This repository contains the notes, code, and projects I have worked on as I lea
 
 ## License
 - This repository is licensed under the Apache License 2.0. See LICENSE for more information.
-
