@@ -12,7 +12,6 @@ This repository contains the notes, code, and projects I have worked on as I lea
 
 - To use the code in this repository, you will need to have Python and the necessary libraries installed. You can install the necessary libraries by running the following command:
 
-
 - pip install -r requirements.txt
 
 ## Usage
