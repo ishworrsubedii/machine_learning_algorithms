@@ -24,7 +24,7 @@ This repository contains the notes, code, and projects I have worked on as I lea
 - Throughout my learning journey, I will be working on various projects related to Machine Learning. The projects I have completed so far can be found in the projects    folder.
 
   Project 1:House Price Predicting System Using Simple Linear-Regression Gradient-Descent 
-  - https://github.com/ishworrsubedii/House_Price_Prediction-Using-Linear-Reression  
+  - https://github.com/ishworrsubedii/House-Price-Prediction-Using-Linear-Regression
   
 
 ## Contributing
