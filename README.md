@@ -26,6 +26,10 @@ This repository contains the notes, code, and projects I have worked on as I lea
   Project 1:House Price Predicting System Using Simple Linear-Regression Gradient-Descent 
   - https://github.com/ishworrsubedii/House-Price-Prediction-Using-Linear-Regression
   
+  Project 1:Spam Prediction Using Simple Logistic-Regression 
+  
+  - https://github.com/ishworrsubedii/Email-Spam-Filtering
+  
 
 ## Contributing
 - I am not accepting contributions to this repository at this time. However, if you find any errors or have suggestions for improvement, please feel free to open an      issue.
